@@ -87,7 +87,7 @@ Fact measures include:
 
 2.	Correlation analysis revealed that revenue had a very strong relationship with completed orders (r = 0.99) but only a weak relationship with Average Order Value (r = 0.30). This indicates that declining revenue was primarily associated with fewer completed transactions rather than lower customer spending per order.
 
-3.	Further analysis identified the Set product category and the Amazon sales channel as the largest contributors to declining performance. The Set category generated over half of total revenue but also accounted for 76% of the overall revenue decline, while Amazon contributed 59% of the decline across all sales channels.
+3.	Further analysis identified the Set product category and the Amazon sales channel as the largest contributors to declining performance. The Set category generated over half of total revenue but also accounted for approximately 64% of the total gross revenue decline across all declining product categories and generate 76% of the company's net revenue decline, while Amazon contributed 59% of the decline across all sales channels.
 
 4.	Geographically, the company's five largest states generated 52% of total revenue but also accounted for one-third of the overall revenue decline. Despite having below-average selling prices, these markets generated strong revenue through high transaction volume, reinforcing that business performance was primarily volume-driven rather than price-driven.
 
@@ -105,8 +105,11 @@ A correlation analysis showed a very strong relationship between revenue and com
 
 ### 2.	Heavy Dependence on the Set Category and Amazon Increased Business Risk
 
-The Set category generated 50.69% of total revenue, making it the business's primary revenue driver. However, it also accounted for approximately 76% of the overall revenue decline, highlighting a strong dependence on a single product category.
-Similarly, Amazon contributed 35% of all completed orders but accounted for approximately 59% of the total revenue decline. Further analysis shows that 49% of the Set category's revenue decline occurred through the Amazon channel. Combined, the decline in the Set category and the Amazon channel explains approximately 37% of the total revenue decline, making them the largest contributors to the business's declining performance.
+The Set category generated 50.69% of total revenue, making it the business's primary revenue driver. It also experienced the largest revenue decline (₹182,925). This represented approximately 64% of the total gross revenue decline across all declining product categories. However, because revenue growth in the Saree and Blouse categories partially offset losses elsewhere, the Set category ultimately accounted for approximately 76% of the company's net revenue decline. These findings highlight the business's heavy reliance on a single product category and the risk associated with concentrated revenue sources.
+
+Similarly, Amazon contributed 35% of completed orders but accounted for approximately 59% of the company's net revenue decline. Further analysis shows that 49% of the Set category's revenue decline occurred through the Amazon channel. Revenue from Set products sold on Amazon declined by ₹88,997, representing approximately 37% of the company's overall net revenue decline. This identifies the Set category on Amazon as the single largest contributor to declining business performance.
+
+While most product categories experienced declining sales, the Saree and Blouse categories recorded positive revenue growth, offsetting approximately 18.6% of the gross revenue decline. This suggests that strengthening these growing categories could help diversify the product portfolio and reduce reliance on the Set category over time.
 
 ### 3.	Revenue Was Driven More by Transaction Volume Than Product Pricing
 
@@ -144,7 +147,7 @@ Understanding where customers drop off in the purchasing journey will help the b
 
 **Finding**
 
-The Set category and the Amazon channel were the largest contributors to declining business performance. The Set category accounted for approximately 76% of the total revenue decline, while Amazon accounted for 59%. Combined, they explained approximately 37% of the overall revenue decline.
+The Set category and the Amazon channel were the largest contributors to declining business performance. The Set category accounted for 64% of the total gross revenue decline across all declining product categories and 76% of the total revenue decline, while Amazon accounted for 59%. Combined, for approximately 37% of the Set revenue decline in Amazon.
 
 Estimated revenue decline:
 
