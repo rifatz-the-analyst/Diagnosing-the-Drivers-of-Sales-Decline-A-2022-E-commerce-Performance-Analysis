@@ -98,6 +98,9 @@ Fact measures include:
 ### 1.	Revenue Declined Primarily Because Fewer Orders Were Completed
 
 Revenue and completed orders both followed an overall downward trend throughout 2022, despite temporary increases in March and August. Net sales fell by 13.95% between January and December, representing a total decline of 240,533, with a Compound Monthly Growth Rate (CMGR) of -1.36%. The negative trendline slope further confirms the overall downward direction of sales throughout the year.
+
+Operational performance remained healthy, with over 93% of orders successfully delivered. This suggests that declining revenue was more likely driven by weakening demand than by fulfillment issues such as cancellations or returns.
+
 A correlation analysis showed a very strong relationship between revenue and completed orders (r = 0.99), while the relationship between revenue and Average Order Value (AOV) was much weaker (r = 0.30). This indicates that the decline in revenue was primarily associated with fewer completed transactions rather than lower spending per order.
 
 ### 2.	Heavy Dependence on the Set Category and Amazon Increased Business Risk
