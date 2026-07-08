@@ -110,7 +110,7 @@ Similarly, Amazon contributed 35% of all completed orders but accounted for appr
 Although total revenue declined, Average Order Value (AOV) remained relatively stable throughout the year. This suggests that customer purchasing behavior per transaction changed very little, while the number of completed purchases declined substantially.
 Interestingly, the Set category had the lowest average selling price on Amazon (₹842) but still generated the highest revenue (₹3.55 million) on the platform. This indicates that the category's strong sales performance was driven by high transaction volume rather than premium pricing, reinforcing the importance of maintaining demand for this product line.
 
-## 4.	Revenue Declined in the Company's Largest Markets
+### 4.	Revenue Declined in the Company's Largest Markets
 
 The top five states, which contributed 52% of total revenue, experienced a combined sales decline of 79,160, accounting for approximately 33% of the overall revenue decline. This suggests that the downturn affected the company's core markets rather than only smaller regions.
 Within these key markets, the Set category declined by 51,620, with 65% of that decline coming from Amazon. This reinforces the conclusion that reduced demand for the Set category on Amazon was one of the primary factors behind the overall decline in business performance.
