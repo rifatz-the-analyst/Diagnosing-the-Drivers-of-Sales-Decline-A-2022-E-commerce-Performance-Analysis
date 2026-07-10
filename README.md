@@ -98,6 +98,9 @@ Fact measures include:
 
 ### 1.	Revenue Declined Primarily Because Fewer Orders Were Completed
 
+<p align="center">
+<img width="1000" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/5ffca55f7d51437ac454860a25eadb8f39e904a9/Vrinda%20Trend.png" />
+
 Revenue and completed orders both followed an overall downward trend throughout 2022, despite temporary increases in March and August. Net sales fell by 13.95% between January and December, representing a total decline of 240,533, with a Compound Monthly Growth Rate (CMGR) of -1.36%. The negative trendline slope further confirms the overall downward direction of sales throughout the year.
 
 Operational performance remained healthy, with over 93% of orders successfully delivered. This suggests that declining revenue was more likely driven by weakening demand than by fulfillment issues such as cancellations or returns.
@@ -105,6 +108,9 @@ Operational performance remained healthy, with over 93% of orders successfully d
 A correlation analysis showed a very strong relationship between revenue and completed orders (r = 0.99), while the relationship between revenue and Average Order Value (AOV) was much weaker (r = 0.30). This indicates that the decline in revenue was primarily associated with fewer completed transactions rather than lower spending per order.
 
 ### 2.	Heavy Dependence on the Set Category and Amazon Increased Business Risk
+
+<p align="center">
+<img width="800" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/5ffca55f7d51437ac454860a25eadb8f39e904a9/Vrinda%20Product.png" />
 
 The Set category generated 50.69% of total revenue, making it the business's primary revenue driver. It also experienced the largest revenue decline (₹182,925). This represented approximately 64% of the total gross revenue decline across all declining product categories. However, because revenue growth in the Saree and Blouse categories partially offset losses elsewhere, the Set category ultimately accounted for approximately 76% of the company's net revenue decline. These findings highlight the business's heavy reliance on a single product category and the risk associated with concentrated revenue sources.
 
@@ -114,10 +120,16 @@ While most product categories experienced declining sales, the Saree and Blouse 
 
 ### 3.	Revenue Was Driven More by Transaction Volume Than Product Pricing
 
+<p align="center">
+<img width="500" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/5ffca55f7d51437ac454860a25eadb8f39e904a9/Vrinda%20Revenue%20Decomposition.png" />
+
 Although total revenue declined, Average Order Value (AOV) remained relatively stable throughout the year. This suggests that customer purchasing behavior per transaction changed very little, while the number of completed purchases declined substantially.
 Interestingly, the Set category had the lowest average selling price on Amazon (₹842) but still generated the highest revenue (₹3.55 million) on the platform. This indicates that the category's strong sales performance was driven by high transaction volume rather than premium pricing, reinforcing the importance of maintaining demand for this product line.
 
 ### 4.	Revenue Declined in the Company's Largest Markets
+
+<p align="center">
+<img width="1000" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/5ffca55f7d51437ac454860a25eadb8f39e904a9/Vrinda%20Top%205%20States.png" />
 
 The top five states, which contributed 52% of total revenue, experienced a combined sales decline of 79,160, accounting for approximately 33% of the overall revenue decline. This suggests that the downturn affected the company's core markets rather than only smaller regions.
 Within these key markets, the Set category declined by 51,620, with 65% of that decline coming from Amazon. This reinforces the conclusion that reduced demand for the Set category on Amazon was one of the primary factors behind the overall decline in business performance.
@@ -190,3 +202,11 @@ Since the company's largest markets depend on transaction volume, increasing com
 
 If sales performance in the top five states improves by 25%, the business could potentially recover approximately ₹19,844 in revenue.
 In addition, identifying promising lower-performing markets may help expand the customer base and reduce dependence on the current core regions.
+
+## Dashboard Preview
+
+<p align="center">
+<img width="1000" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/c71f6bb50cd6e7d0cb25a8d97bbcc9b9083db7fa/Overview.png" />
+
+<p align="center">
+<img width="1000" src="https://github.com/rifatz-the-analyst/Image-archieve/blob/c71f6bb50cd6e7d0cb25a8d97bbcc9b9083db7fa/Root%20Cause.png" />
