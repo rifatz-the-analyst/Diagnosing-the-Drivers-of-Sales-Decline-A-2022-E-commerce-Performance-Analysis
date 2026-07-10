@@ -52,15 +52,16 @@ The following preparation steps were performed before analysis:
 
 The following business metrics were used throughout the analysis.
 
-Metric	Description
-Net Sales	Revenue from Delivered orders only
-Completed Orders	Number of Delivered orders
-Average Order Value (AOV)	Net Sales ÷ Completed Orders
-Revenue Contribution	Percentage contribution to total revenue
-Revenue Decline	January vs December revenue difference
-Compound Monthly Growth Rate (CMGR)	Average monthly growth/decline rate
-Correlation Coefficient	Relationship between revenue, orders, and AOV
-Estimated Revenue Recovery	Estimated recoverable revenue based on identified opportunities
+| Metric |	Description |
+| --- | --- |
+| Net Sales |	Revenue from Delivered orders only |
+| Completed Orders |	Number of Delivered orders |
+| Average Order Value (AOV) |	Net Sales ÷ Completed Orders |
+| Revenue Contribution |	Percentage contribution to total revenue |
+| Revenue Decline |	January vs December revenue difference |
+| Compound Monthly Growth Rate (CMGR) |	Average monthly growth/decline rate |
+| Correlation Coefficient |	Relationship between revenue, orders, and AOV |
+| Estimated Revenue Recovery |	Estimated recoverable revenue based on identified opportunities |
 
 ### Data Model
 
